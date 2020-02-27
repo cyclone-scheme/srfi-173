@@ -1,6 +1,6 @@
 (package
  (name           srfi-173)
- (version        0.1)
+ (version        0.3)
  (license        "MIT")
  (authors        "Amirouche Boubekki")
  (maintainers    "Justin Ethier <justin.ethier at gmail dot com>")
