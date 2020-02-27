@@ -1,4 +1,4 @@
-(import (scheme base) (cyclone test) (hook))
+(import (scheme base) (cyclone test) (srfi 173))
 
 (test-group "Basic"
 

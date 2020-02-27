@@ -14,4 +14,4 @@
 
   (import (srfi 145))
 
-  (include "hook.body.scm"))
+  (include "hook.scm"))
