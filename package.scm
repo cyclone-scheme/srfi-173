@@ -8,6 +8,9 @@
  (tags           "srfi" "language extensions")
  (docs           "https://github.com/cyclone-scheme/cyclone-winds/wiki/srfi-173")
  (test           "tests.scm")
+ (dependencies (srfi-145))
+ (test-dependencies ())
+ (foreign-dependencies ())
 
  (library
      (name (srfi 173))
