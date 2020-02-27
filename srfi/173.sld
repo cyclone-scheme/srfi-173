@@ -1,4 +1,4 @@
-(define-library (hook)
+(define-library (srfi 173)
 
   (export make-hook
           hook?
